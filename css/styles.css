@@ -12,3 +12,6 @@
 .important{
   font-weight: bold;
 }
+.not-important{
+  font-weight: normal;
+}
